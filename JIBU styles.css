@@ -3,16 +3,26 @@ h1{
     border: 2px solid black;
     color: yellow;
 }
-p{
-    color: rgb(123, 236, 10);
+p1{
+    color: rgb(236, 158, 13);
     font-size: 200%;
 
 }
 h1:hover{
-    background-color: rgb(49, 129, 182);
+    background-color: rgb(44, 13, 216);
     color: black;
 }
 .jibustyles{
     font-family: cursive;
-    color:rgb(30, 165, 165);
+    color:rgb(31, 243, 12);
+}
+h3{
+    color: gold;
+    font-size: 200%;
+}
+html{
+    background-color: rgb(88, 109, 156);
+}
+h3{
+    background-color: darkgreen;
 }
