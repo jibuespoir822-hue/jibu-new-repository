@@ -1,0 +1,14 @@
+h1{
+    background-color: blue;
+    border: 2px solid black;
+    color: yellow;
+}
+p{
+    color: rgb(123, 236, 10);
+    font-size: 200%;
+
+}
+h1:hover{
+    background-color: rgb(49, 129, 182);
+    color: black;
+}
